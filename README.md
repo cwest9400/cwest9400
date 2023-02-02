@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a junior software engineer and lifelong learner.
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a birthday reminder app
 - 🌱 I’m currently reading *Ego is the Enemy* by Ryan Holiday
 - 👯 I’m looking to collaborate on creative applications
 
