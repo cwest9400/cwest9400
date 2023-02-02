@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm a junior software engineer and lifelong learner.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently reading *Ego is the Enemy* by Ryan Holiday
+- 👯 I’m looking to collaborate on creative applications
+
+### Some of my interests:
+- ⚡ painting and drawing (digital and physical)
+- ⚡ creating fun experiences for other people
+- ⚡ Magic: The Gathering
 
 <!--
 **cwest9400/cwest9400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
